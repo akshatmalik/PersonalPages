@@ -17,7 +17,7 @@ author = "Akshat Malik"
 description = "Akshat Malik's personal website"
 keywords = "blog,developer,personal"
 info = ["Software Engineer", "Software Engineering Researcher", "DevOps & MLOps"]
-avatarURL = "images/PIC_AKSHAT.jpg"
+#avatarURL = "images/PIC_AKSHAT.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2014
@@ -126,39 +126,39 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/akshatmalik"
 
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
-weight = 2
-url = "https://gitlab.com/johndoe/"
+#[[params.social]]
+#name = "Gitlab"
+#icon = "fa fa-2x fa-gitlab"
+#weight = 2
+#url = "https://gitlab.com/johndoe/"
 
-[[params.social]]
-name = "Twitter"
-icon = "fa fa-2x fa-twitter"
-weight = 3
-url = "https://twitter.com/johndoe/"
+#[[params.social]]
+#name = "Twitter"
+#icon = "fa fa-2x fa-twitter"
+#weight = 3
+#url = "https://twitter.com/johndoe/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/akshat-malik/"
 
-[[params.social]]
-name = "Medium"
-icon = "fa fa-2x fa-medium"
-weight = 5
-url = "https://medium.com/@johndoe"
-
-[[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+#[[params.social]]
+#name = "Medium"
+#icon = "fa fa-2x fa-medium"
+#weight = 5
+#url = "https://medium.com/@johndoe"
+#
+#[[params.social]]
+#name = "RSS"
+#icon = "fa fa-2x fa-rss"
+#weight = 6
+#url = "https://myhugosite.com/index.xml"
+#rel = "alternate"
+#type = "application/rss+xml"
 
 [languages.en]
 languageName = ":uk:"
@@ -168,15 +168,15 @@ name = "About"
 weight = 1
 url = "about/"
 
-[[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
+#[[languages.en.menu.main]]
+#name = "Blog"
+#weight = 2
+#url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Projects"
 weight = 3
-url = "projects/"
+url = "experience/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
