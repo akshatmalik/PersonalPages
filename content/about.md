@@ -17,7 +17,7 @@ Currently, I am working as a research student at the [SAIL Lab](https://sail.cs.
 
 Before coming to Canada for my Masters, I was working Bengaluru as Software Developer II in [Atlassian](https://www.atlassian.com/) and [Soroco](https://soroco.com/). I worked on Java, Python and a bit of C/C++ in college, [R.V. College of Engineering](https://www.rvce.edu.in/). 
 
-I love running, reading books, and a board games enthusiast! 
+I love running, reading books, and I am a board games enthusiast! 
 
 
 
