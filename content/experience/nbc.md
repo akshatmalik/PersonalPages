@@ -2,7 +2,7 @@
 authors = ["Akshat Malik"]
 title = "National Bank of Canada"
 
-date = "2020-06-01"
+date = "2023-09-01"
 description = "MLOps at National Bank of Canada"
 tags = [
     "hugo",
