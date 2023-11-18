@@ -22,7 +22,7 @@ series = ["Theme Demo"]
 
 Soroco was the first company I worked at after graduating from college. I got a chance to learn a lot about how to build a product from scratch, and how to scale it to a large number of users. We primarily worked in Python as the main language along with Django and Flask. 
 
-**Technologies Used:** Python - Django & Flask; Docker, Ansible, RabbitMQ & PostgreSQL; Qlik
+**Technologies Used:** Python - Django & Flask; go; Docker, Ansible, RabbitMQ & PostgreSQL; Qlik
 
 
 ## Data Analysis Pipeline 📊️ 🚰
@@ -58,7 +58,7 @@ The architecture of this pipeline mirrored that of a factory line, where each an
 [//]: # ()
 [//]: # (To serve users in a promptly, we developed some data transformation steps which populated the data from the analysis pipeline to our user portal. )
 
-An integral part of my role involved showing the analyzed user data. I was involved in developing a user portal, an interface for user onboarding, management, and configuration, as well as for displaying the processed data. The technology stack for this included Angular, Django, and PostgreSQL. My contributions encompassed:
+An integral part of my role involved showing the analyzed user data. I was involved in developing a user portal written in go, an interface for user onboarding, management, and configuration, as well as for displaying the processed data. The technology stack for this included Angular, Django, and PostgreSQL. My contributions encompassed:
 
 - Onboarding new users onto the platform.
 - Managing user profiles and access.

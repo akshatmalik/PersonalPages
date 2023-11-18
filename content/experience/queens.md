@@ -33,7 +33,9 @@ As a participant in the [NSERC SE4AI CREATE](https://se4ai.org/) program, I delv
 
 I worked on a project focused on detecting and quantifying ethical and racial biases in HuggingFace's AI models. We not only pinpointed these biases but also proposed strategies to mitigate them. This initiative was important in enriching my understanding of AI's ethical aspects and guiding me in the responsible creation of AI systems.
 
+[//]: # (TODO: Add about core reivews, how code skills are transferable, how I am a good fit for the role)
 
+[//]: # (TODO: Add go and c++ python to skills)
 
 
 
