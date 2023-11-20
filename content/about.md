@@ -10,7 +10,7 @@ Hello!
 
 I am Akshat Malik.
 
-![Akshat Malik](/img/akshat.jpg)
+[//]: # (![Akshat Malik]&#40;/img/akshat.jpg&#41;)
 
 
 Currently, I am working as a research student at the [SAIL Lab](https://sail.cs.queensu.ca/) in [Queen's University, Canada](https://www.queensu.ca/), where I am working under the guidance of [Dr. Bram Adams](https://scholar.google.ca/citations?user=XS9QH_UAAAAJ&hl=en) and [Dr. Ahmed Hassan](https://scholar.google.ca/citations?user=9hwXx34AAAAJ&hl=en). 

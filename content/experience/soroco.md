@@ -18,7 +18,7 @@ series = ["Theme Demo"]
 
 # Scout - Soroco
 
-![Soroco Logo](/img/soroco_logo.png)
+[//]: # (![Soroco Logo]&#40;/img/soroco_logo.png&#41;)
 
 Soroco was the first company I worked at after graduating from college. I got a chance to learn a lot about how to build a product from scratch, and how to scale it to a large number of users. We primarily worked in Python as the main language along with Django and Flask. 
 

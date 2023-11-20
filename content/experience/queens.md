@@ -19,7 +19,7 @@ series = ["Theme Demo"]
 # Queen's University
 
 
-![Queen's University Logo](/img/queens_logo.png)
+[//]: # (![Queen's University Logo]&#40;/img/queens_logo.png&#41;)
 
 ## MCIS/SAIL - Queen's University
 

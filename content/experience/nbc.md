@@ -18,7 +18,7 @@ series = ["Theme Demo"]
 
 # National Bank of Canada
 
-![National Bank of Canada Logo](/img/nbc_logo.png)
+[//]: # (![National Bank of Canada Logo]&#40;/img/nbc_logo.png&#41;)
 
 ## MLOps - National Bank of Canada
 
