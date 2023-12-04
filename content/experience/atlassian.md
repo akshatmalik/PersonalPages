@@ -1,6 +1,6 @@
 +++
 authors = ["Akshat Malik"]
-title = "Building large scale Reporting platform - Atlassian"
+title = "Building a large scale Reporting platform - Atlassian"
 
 date = "2020-06-01"
 description = "Experience at Atlassian"
