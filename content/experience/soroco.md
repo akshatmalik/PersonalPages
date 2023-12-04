@@ -1,6 +1,6 @@
 +++
 authors = ["Akshat Malik"]
-title = "Scout - Soroco"
+title = "Data analysis platform - Soroco"
 
 date = "2018-01-01"
 description = "Experience at Soroco"

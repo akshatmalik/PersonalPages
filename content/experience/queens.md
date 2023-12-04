@@ -1,6 +1,6 @@
 +++
 authors = ["Akshat Malik"]
-title = "MCIS/SAIL - Queen's University"
+title = "Privacy for ML models - MCIS/SAIL - Queen's University"
 
 date = "2022-09-01"
 description = "Back to school"
